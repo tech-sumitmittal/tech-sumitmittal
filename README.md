@@ -1,16 +1,44 @@
-## Hi there 👋
+# 🏋️ Sumit Mittal
 
-<!--
-**sumitmittal-github/sumitmittal-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Senior Software Engineer`**
 
-Here are some ideas to get you started:
+Hello! My name is Sumit and I have a strong passion for developing web applications with a great user experience. I am driven by the thrill of overcoming obstacles and pushing the boundaries of what's possible. I thrive on solving complexities and transforming them into elegant solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm all about automating and streamlining processes, ensuring high standards in code quality, and building scalable digital products that work for everyone.
+
+Checkout my GitHub repositories on <a href = "https://github.com/sumitmittal-github/Java21">Java21</a>, <a href = "https://github.com/sumitmittal-github/DataStructures-and-Algorithms">Data Structures & Algorithms</a>, <a href = "https://github.com/sumitmittal-github/SpringSecurity-SpringBoot">Spring Boot & Security</a> and <a href = "https://github.com/sumitmittal-github/MongoDB-SpringBoot">Mongo DB</a>
+
+
+---
+### 💻 Languages and Tools
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="Hibernate" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" />
+<img align="left" alt="Microservices" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+<img align="left" alt="Swagger" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="OAuth" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Maven" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" />
+<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="BitBucket" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
+<img align="left" alt="Grafana" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
+<img align="left" alt="SonarQube" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" />
+<img align="left" alt="Prometheus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
+
+
+<br />
+
+&nbsp;![](https://komarev.com/ghpvc/?username=sumitmittal-github&color=brightgreen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitmittal-github&show_icons=true&locale=en" alt="sumitmittal-github" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitmittal-github&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
