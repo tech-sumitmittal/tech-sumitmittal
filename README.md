@@ -1,4 +1,4 @@
-# 🏋️ Sumit Mittal
+<h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
 
 **`Senior Software Engineer`**
 
@@ -17,13 +17,9 @@ Checkout my GitHub repositories on <a href = "https://github.com/sumitmittal-git
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
-
-
 <img align="left" alt="Microservices" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
 <img align="left" alt="Swagger" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
 <img align="left" alt="OAuth" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" />
-
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -37,7 +33,7 @@ Checkout my GitHub repositories on <a href = "https://github.com/sumitmittal-git
 
 
 ---
-&nbsp;![](https://komarev.com/ghpvc/?username=sumitmittal-github&color=brightgreen)
+<div align="right">&nbsp;![](https://komarev.com/ghpvc/?username=sumitmittal-github&color=brightgreen)</div>
 
 <p>
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitmittal-github&show_icons=true&locale=en" alt="sumitmittal-github" />
