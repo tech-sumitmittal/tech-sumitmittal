@@ -2,11 +2,12 @@
 
 **`Senior Software Engineer`**
 
-Hello! My name is Sumit and I have a strong passion for developing web applications with a great user experience. I am driven by the thrill of overcoming obstacles and pushing the boundaries of what's possible. I thrive on solving complexities and transforming them into elegant solutions.
+Hello! My name is <b>Sumit</b> and I have a strong passion for developing web applications with a great user experience. I am driven by the thrill of overcoming obstacles and pushing the boundaries of what's possible. I thrive on solving complexities and transforming them into elegant solutions.
 
 I'm all about automating and streamlining processes, ensuring high standards in code quality, and building scalable digital products that work for everyone.
 
 Checkout my GitHub repositories on <a href = "https://github.com/sumitmittal-github/Java21">Java21</a>, <a href = "https://github.com/sumitmittal-github/DataStructures-and-Algorithms">Data Structures & Algorithms</a>, <a href = "https://github.com/sumitmittal-github/SpringSecurity-SpringBoot">Spring Boot & Security</a> and <a href = "https://github.com/sumitmittal-github/MongoDB-SpringBoot">Mongo DB</a>
+
 
 
 ---
@@ -36,9 +37,11 @@ Checkout my GitHub repositories on <a href = "https://github.com/sumitmittal-git
 <img align="left" alt="Prometheus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
 
 
-<br />
 
+---
 &nbsp;![](https://komarev.com/ghpvc/?username=sumitmittal-github&color=brightgreen)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitmittal-github&show_icons=true&locale=en" alt="sumitmittal-github" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitmittal-github&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+
+<p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitmittal-github&show_icons=true&locale=en" alt="sumitmittal-github" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitmittal-github&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </p>
