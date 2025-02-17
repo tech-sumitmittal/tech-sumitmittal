@@ -31,10 +31,7 @@ Checkout my GitHub repositories on <a href = "https://github.com/sumitmittal-git
 <img align="left" alt="Prometheus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
 <br/>
 
-
 ---
-<div align="right">&nbsp;![](https://komarev.com/ghpvc/?username=sumitmittal-github&color=brightgreen)</div>
-
 <p>
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitmittal-github&show_icons=true&locale=en" alt="sumitmittal-github" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitmittal-github&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
