@@ -6,7 +6,7 @@ Hello! My name is <b>Sumit</b> and I have a strong passion for developing web ap
 
 I'm all about automating and streamlining processes, ensuring high standards in code quality, and building scalable digital products that work for everyone.
 
-Checkout my GitHub repositories on <a href = "https://github.com/sumitmittal-github/Java21">Java21</a>, <a href = "https://github.com/sumitmittal-github/DataStructures-and-Algorithms">Data Structures & Algorithms</a>, <a href = "https://github.com/sumitmittal-github/SpringSecurity-SpringBoot">Spring Boot & Security</a> and <a href = "https://github.com/sumitmittal-github/MongoDB-SpringBoot">Mongo DB</a>
+Checkout my GitHub repositories on <a href = "https://github.com/sumitmittal-github/Java21">Java21</a>, <a href = "https://github.com/sumitmittal-github/DataStructures-and-Algorithms">Data Structures & Algorithms</a>, <a href = "https://github.com/sumitmittal-github/SpringSecurity6.0">Spring Boot & Security</a> and <a href = "https://github.com/sumitmittal-github/MongoDB-SpringBoot">Mongo DB</a>
 <br/>
 
 
