@@ -6,7 +6,7 @@ Hello! My name is <b>Sumit</b> and I have a strong passion for developing web ap
 
 I'm all about automating and streamlining processes, ensuring high standards in code quality, and building scalable digital products that work for everyone.
 
-Checkout my GitHub repositories on <a href = "https://github.com/sumitmittal-github/Java21">Java21</a>, <a href = "https://github.com/sumitmittal-github/DataStructures-and-Algorithms">Data Structures & Algorithms</a>, <a href = "https://github.com/sumitmittal-github/SpringSecurity6.0">Spring Boot & Security</a>, <a href = "https://github.com/sumitmittal-github/SpringSecurityWithJWT">Spring Security with JWT</a> and <a href = "https://github.com/sumitmittal-github/MongoDB-SpringBoot">Mongo DB</a>
+Checkout my GitHub repositories on <a href = "https://github.com/tech-sumitmittal/Java21">Java21</a>, <a href = "https://github.com/tech-sumitmittal/DataStructures-and-Algorithms">Data Structures & Algorithms</a>, <a href = "https://github.com/tech-sumitmittal/SpringSecurity6.0">Spring Boot & Security</a>, <a href = "https://github.com/tech-sumitmittal/SpringSecurityWithJWT">Spring Security with JWT</a> and <a href = "https://github.com/tech-sumitmittal/MongoDB-SpringBoot">Mongo DB</a>
 <br/>
 
 
@@ -34,6 +34,7 @@ Checkout my GitHub repositories on <a href = "https://github.com/sumitmittal-git
 
 ---
 <p>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitmittal-github&show_icons=true&locale=en" alt="sumitmittal-github" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitmittal-github&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tech-sumitmittal&show_icons=true&locale=en" alt="tech-sumitmittal" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-sumitmittal&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </p>
