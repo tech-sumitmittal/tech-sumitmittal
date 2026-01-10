@@ -6,7 +6,6 @@
   Passionate about building <b>secure, scalable, and high-performance backend systems</b>
 </p>
 
----
 
 <br/>
 
