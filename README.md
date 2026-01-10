@@ -8,6 +8,8 @@
 
 ---
 
+<br/>
+
 ## 👨‍💻 About Me
 
 Hello! I'm <b>Sumit</b>, a **Senior Software Engineer** with a strong passion for designing and developing **robust, secure, and scalable web applications** with an excellent developer and user experience.
@@ -20,7 +22,9 @@ I thrive on:
 
 I strongly believe in **clean code**, **security-first design**, and **continuous learning**, especially in the Java and Spring ecosystem.
 
----
+
+
+<br/>
 
 ## 📂 Featured Repositories
 
@@ -37,7 +41,9 @@ I strongly believe in **clean code**, **security-first design**, and **continuou
 🔹 **Databases**
 - 👉 <a href="https://github.com/tech-sumitmittal/MongoDB-SpringBoot">MongoDB with Spring Boot</a>
 
----
+
+
+<br/>
 
 ## 🛠️ Languages & Tools
 
@@ -60,20 +66,24 @@ I strongly believe in **clean code**, **security-first design**, and **continuou
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="35" />
 </p>
 
----
+
+
+<br/>
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+![Repos](https://img.shields.io/badge/Public%20Repos-Java%20Focused-blue)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Stars](https://img.shields.io/badge/Stars-Growing-success)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Profile](https://img.shields.io/badge/Role-Senior%20Software%20Engineer-important)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Tech](https://img.shields.io/badge/Stack-Java%20%7C%20Spring%20Boot%20%7C%20Security-informational)
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tech-sumitmittal&show_icons=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-sumitmittal&layout=compact" height="165"/>
-</p>
 
 
-
----
+<br/>
 
 ## 🌱 Currently Exploring
 
@@ -82,13 +92,17 @@ I strongly believe in **clean code**, **security-first design**, and **continuou
 - Java 21 performance optimisations
 - Microservices observability & monitoring
 
----
+
+
+<br/>
 
 ## 🤝 Let’s Connect
 
 If you enjoy discussing **Java, Spring Boot, Security, or system design**, feel free to connect or explore my repositories ⭐  
 I’m always open to learning, sharing, and collaborating.
 
----
+
+
+<br/>
 
 ⭐ *If you find my work useful, consider giving a star to the repositories you like!*  
