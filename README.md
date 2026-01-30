@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋, Welcome to my GitHub!</h2>
 
-<h3 align="center">🚀 Senior Software Engineer | Java | Spring Boot | Security</h3>
+<h3 align="center">🚀 Senior Software Engineer | Java | Spring Boot | Microservices | AWS</h3>
 
 <p align="center">
   Passionate about building <b>secure, scalable, and high-performance backend systems</b>
@@ -30,16 +30,20 @@ I strongly believe in **clean code**, **security-first design**, and **continuou
 🔹 **Java & Core Concepts**
 - 👉 <a href="https://github.com/tech-sumitmittal/Java21">Java 21 – Modern Java Features</a>
 
-🔹 **Problem Solving**
-- 👉 <a href="https://github.com/tech-sumitmittal/DataStructures-and-Algorithms">Data Structures & Algorithms</a>
+🔹 **Microservices & Spring Security**
+- 👉 <a href="https://github.com/tech-sumitmittal/Microservices-EndToEnd">Spring Microservices with Docker, Kubernetes, Helm</a>
+- 👉 <a href="https://github.com/tech-sumitmittal/SpringSecurity-EndToEnd">Spring Security with JWT & OAUTH2.0</a>
 
-🔹 **Spring & Security**
-- 👉 <a href="https://github.com/tech-sumitmittal/SpringSecurity6.0">Spring Security 6.0</a>
-- 👉 <a href="https://github.com/tech-sumitmittal/SpringSecurityWithJWT">Spring Security with JWT</a>
+🔹 **Angular Frontend**
+- 👉 <a href="https://github.com/tech-sumitmittal/angular-employee-management-app">Employee Management App</a>
+- 👉 <a href="https://github.com/tech-sumitmittal/angular-task-management-app">Task Management App</a>
 
 🔹 **Databases**
 - 👉 <a href="https://github.com/tech-sumitmittal/MongoDB-SpringBoot">MongoDB with Spring Boot</a>
+- 👉 <a href="https://github.com/tech-sumitmittal/Redis-SpringBoot">Redis with Spring Boot</a>
 
+🔹 **Problem Solving**
+- 👉 <a href="https://github.com/tech-sumitmittal/DataStructures-and-Algorithms">Data Structures & Algorithms</a>
 
 
 <br/>
