@@ -7,7 +7,7 @@
 </p>
 
 
-<br/>
+
 
 ## 👨‍💻 About Me
 
@@ -21,9 +21,28 @@ I thrive on:
 
 I strongly believe in **clean code**, **security-first design**, and **continuous learning**, especially in the Java and Spring ecosystem.
 
+<br/>
 
+
+
+
+
+## 📊 GitHub Stats
+
+![Repos](https://img.shields.io/badge/Public%20Repos-Java%20Focused-blue)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Stars](https://img.shields.io/badge/Stars-Growing-success)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Profile](https://img.shields.io/badge/Role-Senior%20Software%20Engineer-important)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Tech](https://img.shields.io/badge/Stack-Java%20%7C%20Spring%20Boot%20%7C%20Security-informational)
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br/>
+
+
+
+
 
 ## 📂 Featured Repositories
 
@@ -47,6 +66,10 @@ I strongly believe in **clean code**, **security-first design**, and **continuou
 
 
 <br/>
+
+
+
+
 
 ## 🛠️ Languages & Tools
 
@@ -84,24 +107,11 @@ I strongly believe in **clean code**, **security-first design**, and **continuou
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="35" />
 </p>
 
-
-
 <br/>
 
-## 📊 GitHub Stats
-
-![Repos](https://img.shields.io/badge/Public%20Repos-Java%20Focused-blue)
-&nbsp;&nbsp;&nbsp;&nbsp;
-![Stars](https://img.shields.io/badge/Stars-Growing-success)
-&nbsp;&nbsp;&nbsp;&nbsp;
-![Profile](https://img.shields.io/badge/Role-Senior%20Software%20Engineer-important)
-&nbsp;&nbsp;&nbsp;&nbsp;
-![Tech](https://img.shields.io/badge/Stack-Java%20%7C%20Spring%20Boot%20%7C%20Security-informational)
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
-<br/>
 
 ## 🌱 Currently Exploring
 
@@ -110,17 +120,18 @@ I strongly believe in **clean code**, **security-first design**, and **continuou
 - Java 21 performance optimisations
 - Microservices observability & monitoring
 
-
-
 <br/>
+
+
+
+
 
 ## 🤝 Let’s Connect
 
 If you enjoy discussing **Java, Spring Boot, Security, or system design**, feel free to connect or explore my repositories ⭐  
 I’m always open to learning, sharing, and collaborating.
 
-
-
 <br/>
+
 
 ⭐ *If you find my work useful, consider giving a star to the repositories you like!*  
