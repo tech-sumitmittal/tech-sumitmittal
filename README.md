@@ -1,24 +1,16 @@
-<h1 align="center">Hi 👋, I'm Sumit Mittal</h1>
+<h2 align="center"> Hi there 👋, Welcome to my GitHub!</h2>
 
-<h3 align="center">
-Lead Full Stack Developer | Generative AI Engineer | AWS Certified Solutions Architect – Associate
-</h3>
+<h3 align="center"> 🚀 Lead Full Stack Developer | Generative AI Engineer | AWS Certified Solutions Architect – Associate </h3>
 
-<p align="center">
-Building scalable enterprise applications using Java, Spring Boot, Microservices, AWS, and Generative AI technologies.
-</p>
+<p align="center"> Building scalable enterprise applications using Java, Spring Boot, Microservices, AWS, and Generative AI technologies. </p>
 
-<p align="center">
-  <a href="https://github.com/tech-sumitmittal">
-    <img src="https://komarev.com/ghpvc/?username=tech-sumitmittal&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
+<br/>
 
----
 
-# 👨‍💻 About Me
 
-I am a Lead Full Stack Developer with 13+ years of experience designing and delivering enterprise-scale, high-performance, and cloud-native applications using Java, Spring Boot, Microservices, Angular, and AWS technologies.
+## 👨‍💻 About Me
+
+I am a Lead Full Stack Developer with 13+ years of experience designing and delivering enterprise-scale, high-performance, and cloud-native applications using Java, Spring Boot, Microservices, Angular, AWS technologies, and Generative AI.
 
 I specialise in:
 - Enterprise Backend Engineering
@@ -28,131 +20,95 @@ I specialise in:
 - Performance Optimisation
 - AI-Powered Enterprise Applications
 
-Recently, I have been actively building Generative AI applications using:
-- Spring AI
-- OpenAI APIs
-- Retrieval-Augmented Generation (RAG)
-- Model Context Protocol (MCP)
-- Vector Databases
-- AI Observability
-- Conversational AI Workflows
+I strongly believe in **clean code**, **security-first design**, and **continuous learning**, especially in the Java and Spring ecosystem.
 
-I am passionate about building secure, scalable, intelligent, and production-ready enterprise systems.
+<br/>
 
----
 
-# 🚀 Featured Generative AI Projects
 
-## 🤖 Spring AI Enterprise Applications
-🔗 https://github.com/tech-sumitmittal/Spring-AI
+## 📊 GitHub Stats
 
-### Key Features
-- Spring AI + OpenAI integrations
-- Retrieval-Augmented Generation (RAG)
-- Qdrant Vector Database
-- MCP Client/Server Implementations
-- AI Tool Calling
-- Conversational AI Workflows
-- AI Chat Memory
-- Structured AI Outputs
-- AI Observability with OpenTelemetry
-- Speech-to-Text & Text-to-Speech
-- AI Image Generation
-- Dockerised AI Applications
+![Java](https://img.shields.io/badge/Backend-Java%2021%20%7C%20Spring%20Boot-blue)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![AI](https://img.shields.io/badge/Generative%20AI-Spring%20AI%20%7C%20OpenAI-success)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Architecture](https://img.shields.io/badge/Architecture-Microservices%20%7C%20Cloud-orange)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![DevOps](https://img.shields.io/badge/DevOps-Docker%20%7C%20Kubernetes-purple)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![RAG](https://img.shields.io/badge/AI%20Engineering-RAG%20%7C%20MCP%20%7C%20VectorDB-red)
 
-### Technologies
-`Java 21` `Spring Boot` `Spring AI` `OpenAI` `RAG` `MCP`
-`Qdrant` `Docker` `Prometheus` `Grafana`
-`OpenTelemetry` `GitHub Copilot`
+<br/>
 
----
 
-# 📂 Featured Repositories
 
-## ☕ Java & Backend Engineering
-- 🔹 Java 21 – Modern Java Features  
-  https://github.com/tech-sumitmittal/Java21
+## 📂 Featured Repositories
 
-- 🔹 Spring Microservices with Docker & Kubernetes  
-  https://github.com/tech-sumitmittal/Microservices-EndToEnd
+🔹 **☕ Generative AI Projects : Spring AI Enterprise Applications** <br/>
+👉 <a href="https://github.com/tech-sumitmittal/Spring-AI">https://github.com/tech-sumitmittal/Spring-AI</a>
 
-- 🔹 Spring Security with JWT & OAuth2  
-  https://github.com/tech-sumitmittal/SpringSecurity-EndToEnd
+🔹 **Java 21 & Core Concepts** <br/>
+👉 <a href="https://github.com/tech-sumitmittal/Java21">Java 21 – Modern Java Features</a>
 
----
+🔹 **Microservices & Spring Security** <br/>
+👉 <a href="https://github.com/tech-sumitmittal/Microservices-EndToEnd">Spring Microservices with Docker, Kubernetes, Helm</a> <br/>
+👉 <a href="https://github.com/tech-sumitmittal/SpringSecurity-EndToEnd">Spring Security with JWT & OAUTH2.0</a>
 
-## 🌐 Frontend Applications
-- 🔹 Angular Employee Management App  
-  https://github.com/tech-sumitmittal/angular-employee-management-app
+🔹 **Angular Frontend** <br/>
+👉 <a href="https://github.com/tech-sumitmittal/angular-employee-management-app">Employee Management App</a> <br/>
+👉 <a href="https://github.com/tech-sumitmittal/angular-task-management-app">Task Management App</a>
 
-- 🔹 Angular Task Management App  
-  https://github.com/tech-sumitmittal/angular-task-management-app
+🔹 **Databases** <br/>
+👉 <a href="https://github.com/tech-sumitmittal/MongoDB-SpringBoot">MongoDB with Spring Boot</a> <br/>
+👉 <a href="https://github.com/tech-sumitmittal/Redis-SpringBoot">Redis with Spring Boot</a>
 
----
+🔹 **Problem Solving** <br/>
+👉 <a href="https://github.com/tech-sumitmittal/DataStructures-and-Algorithms">Data Structures & Algorithms</a>
 
-## 🗄️ Databases & Caching
-- 🔹 MongoDB with Spring Boot  
-  https://github.com/tech-sumitmittal/MongoDB-SpringBoot
+<br/>
 
-- 🔹 Redis with Spring Boot  
-  https://github.com/tech-sumitmittal/Redis-SpringBoot
 
----
+## 🛠️ Languages & Tools
 
-## 🧠 Data Structures & Algorithms
-- 🔹 Data Structures & Algorithms  
-  https://github.com/tech-sumitmittal/DataStructures-and-Algorithms
-
----
-
-# 🛠️ Tech Stack
-
-## Backend & Microservices
-`Java 21` `Spring Boot` `Spring Security` `Spring AI`
-`Microservices` `REST APIs` `Hibernate`
-`OAuth2` `JWT` `Kafka`
-
-## Generative AI
-`OpenAI` `Spring AI` `RAG`
-`MCP` `Prompt Engineering`
-`Tool Calling` `Conversational AI`
-`Vector Embeddings`
-`Qdrant`
-`GitHub Copilot`
-
-## Cloud & DevOps
-`AWS` `Docker`
-`Kubernetes` `Jenkins`
-`GitHub Actions`
-`Maven`
-`Gradle`
-
-## Databases
-`MySQL`
-`PostgreSQL`
-`MongoDB`
-`Redis`
-`Oracle`
-
-## Monitoring & Observability
-`Prometheus`
-`Grafana`
-`OpenTelemetry`
-`Jaeger`
-`Splunk`
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tech-sumitmittal&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-sumitmittal&layout=compact&theme=default" height="160"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="35" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="35" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" width="35" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="35" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="35" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="35" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="35" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="35" />
 </p>
 
----
+<br/>
 
-# 🌱 Currently Exploring
+
+
+## 🌱 Currently Exploring
 
 - Advanced Generative AI Architectures
 - AI Agents & MCP Ecosystems
@@ -161,28 +117,26 @@ I am passionate about building secure, scalable, intelligent, and production-rea
 - Cloud-Native AI Applications
 - Spring AI Advanced Integrations
 
----
+<br/>
 
-# 🤝 Connect With Me
 
-- LinkedIn  
-  https://www.linkedin.com/in/tech-sumitmittal
+## 🤝 Let’s Connect
 
-- Portfolio  
-  https://sumitmittal.dev
+If you enjoy discussing **Generative AI, Java, Spring Boot, Security, or system design**, feel free to connect or explore my repositories ⭐  
+I’m always open to learning, sharing, and collaborating.
+<br/>
+<a href="https://www.linkedin.com/in/tech-sumitmittal">LinkedIn</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://sumitmittal.dev">Portfolio</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/tech-sumitmittal">LeetCode</a>
 
-- LeetCode  
-  https://leetcode.com/u/tech-sumitmittal
+<br/>
+<br/>
 
----
 
-# ⭐ Support
 
-If you find my repositories useful, consider giving them a ⭐
-
-I’m always open to collaborating on:
-- Java & Spring Boot
-- Microservices
-- Cloud-Native Applications
-- Generative AI Projects
-- Enterprise AI Platforms
+⭐ *If you find my work useful, consider giving a star to the repositories you like!*  
+<p align="right">
+	<a href="https://github.com/tech-sumitmittal">
+		<img src="https://komarev.com/ghpvc/?username=tech-sumitmittal&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+	</a>
+</p>
