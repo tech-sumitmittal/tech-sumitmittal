@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there 👋, Welcome to my GitHub!</h2>
 
-<h3 align="center"> 🚀 Lead Full Stack Developer | Generative AI Engineer | AWS Certified Solutions Architect – Associate </h3>
+<h3 align="center"> 🚀 Lead Java Full Stack Developer | Generative AI Engineer | AWS Certified Solutions Architect – Associate </h3>
 
 <p align="center"> Building scalable enterprise applications using Java, Spring Boot, Microservices, AWS, and Generative AI technologies. </p>
 
