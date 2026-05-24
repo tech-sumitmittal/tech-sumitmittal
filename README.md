@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Lead Full Stack Developer with 13+ years of experience designing and delivering enterprise-scale, high-performance, and cloud-native applications using Java, Spring Boot, Microservices, Angular, AWS technologies, and Generative AI.
+I am a Lead Java Full Stack Developer with 13+ years of experience designing and delivering enterprise-scale, high-performance, and cloud-native applications using Java, Spring Boot, Microservices, Angular, AWS technologies, and Generative AI.
 
 I specialise in:
 - Enterprise Backend Engineering
