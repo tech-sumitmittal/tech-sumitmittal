@@ -46,7 +46,7 @@ I strongly believe in **clean code**, **security-first design**, and **continuou
 
 ## 📂 Featured Repositories
 
-🔹 **☕ Generative AI Projects : Spring AI Enterprise Application** <br/>
+🔹 **Generative AI Projects : Spring AI Enterprise Application** <br/>
 👉 <a href="https://github.com/tech-sumitmittal/Spring-AI">https://github.com/tech-sumitmittal/Spring-AI</a>
 
 🔹 **Java 21 & Core Concepts** <br/>
@@ -73,41 +73,70 @@ I strongly believe in **clean code**, **security-first design**, and **continuou
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="35" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="35" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" width="35" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="35" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="35" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="35" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="35" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="35" />
+	<img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" />
+	&nbsp;&nbsp;
+	<img title="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" />
+	&nbsp;&nbsp;
+	<img title="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" />
+	&nbsp;&nbsp;
+	<img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" />
+	&nbsp;&nbsp;
+	<img title="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="35" />
+	&nbsp;&nbsp;
+	<img title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="35" />
+	&nbsp;&nbsp;
+	<img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" />
+	&nbsp;&nbsp;
+	<img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" />
+	&nbsp;&nbsp;
+	<img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" />
+	&nbsp;&nbsp;
+	<img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" />
+	&nbsp;&nbsp;
+	<img title="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="35" />
+	&nbsp;&nbsp;
+	<img title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="35" />
+	&nbsp;&nbsp;
+	<img title="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="35" />
+	&nbsp;&nbsp;
+	<img title="Swagger / OpenAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="35" />
+	&nbsp;&nbsp;
+	<img title="OAuth 2.0" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" width="35" />
+	&nbsp;&nbsp;
+	<img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" />
+	&nbsp;&nbsp;
+	<img title="GitHub Actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="35" />
+	&nbsp;&nbsp;
+	<img title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" />
+	&nbsp;&nbsp;
+	<img title="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="35" />
+	&nbsp;&nbsp;
+	<img title="Gradle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="35" />
+	&nbsp;&nbsp;
+	<img title="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="35" />
+	&nbsp;&nbsp;
+	<img title="Prometheus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="35" />
+	&nbsp;&nbsp;
+	<img title="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="35" />
+	&nbsp;&nbsp;
+	<img title="IntelliJ IDEA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="35" />
+	&nbsp;&nbsp;
+	<img title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" />
+	&nbsp;&nbsp;
+	<img title="Spring AI" src="https://spring.io/img/projects/spring-ai.svg" width="35" />
+	&nbsp;&nbsp;
+	<img title="Vector Database" src="https://cdn.simpleicons.org/qdrant/DC244C" width="35" />
+	&nbsp;&nbsp;
+	<img title="Retrieval-Augmented Generation (RAG)" src="https://cdn.simpleicons.org/databricks/FF3621" width="35" />
+	&nbsp;&nbsp;
+	<img title="Jaeger" src="https://cdn.simpleicons.org/jaeger/66CFE3" width="35" />
+	&nbsp;&nbsp;
+	<img title="Qdrant Vector Database" src="https://cdn.simpleicons.org/qdrant/DC244C" width="35" />
+	&nbsp;&nbsp;
+	<img title="Artificial Intelligence" src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="35" />
 </p>
 
 <br/>
-
 
 
 ## 🌱 Currently Exploring
