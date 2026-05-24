@@ -37,6 +37,8 @@ I strongly believe in **clean code**, **security-first design**, and **continuou
 ![DevOps](https://img.shields.io/badge/DevOps-Docker%20%7C%20Kubernetes-purple)
 &nbsp;&nbsp;&nbsp;&nbsp;
 ![RAG](https://img.shields.io/badge/AI%20Engineering-RAG%20%7C%20MCP%20%7C%20VectorDB-red)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Frontend](https://img.shields.io/badge/Frontend-Angular%20%7C%20TypeScript-yellow)
 
 <br/>
 
@@ -44,7 +46,7 @@ I strongly believe in **clean code**, **security-first design**, and **continuou
 
 ## 📂 Featured Repositories
 
-🔹 **☕ Generative AI Projects : Spring AI Enterprise Applications** <br/>
+🔹 **☕ Generative AI Projects : Spring AI Enterprise Application** <br/>
 👉 <a href="https://github.com/tech-sumitmittal/Spring-AI">https://github.com/tech-sumitmittal/Spring-AI</a>
 
 🔹 **Java 21 & Core Concepts** <br/>
