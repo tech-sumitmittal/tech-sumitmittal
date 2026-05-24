@@ -20,7 +20,7 @@ I specialise in:
 - Performance Optimisation
 - AI-Powered Enterprise Applications
 
-I strongly believe in **clean code**, **security-first design**, and **continuous learning**, especially in the Java and Spring ecosystem.
+I strongly believe in **clean code**, **security-first design**, and **continuous learning**, especially in the Java and Microservices ecosystem.
 
 <br/>
 
